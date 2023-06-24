@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Fale Conosco - Formulário de contato
 
@@ -16,3 +17,7 @@ Tecnologias utilizadas:
 - CSS (utilizando o framework Tailwind CSS)
 
 
+=======
+# react-contact-form
+Um formulário de contato React interativo.
+>>>>>>> 7484daccb19bb6c6142f9b108a682e152dced946

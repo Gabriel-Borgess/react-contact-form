@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ![App Image](formulario-contato/public/form-image.png)
 
 Fale Conosco - Aplicativo de Contato
+=======
+Fale Conosco - Formulário de contato
+>>>>>>> c8797b717cd840ab76754133996871fd72fb5724
 
 Este é um aplicativo simples de "Fale Conosco" que permite aos usuários entrar em contato com você enviando uma mensagem através de um formulário. O aplicativo é desenvolvido usando React e possui um design moderno e intuitivo.
 

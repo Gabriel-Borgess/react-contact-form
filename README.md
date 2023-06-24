@@ -1,6 +1,4 @@
 
-![App Image](/formulario-contato/public/form-image.png) 
-
 Fale Conosco - Formulário de contato
 
 

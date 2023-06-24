@@ -13,9 +13,4 @@ Tecnologias utilizadas:
 - React
 - CSS (utilizando o framework Tailwind CSS)
 
-Este projeto é um ótimo exemplo para aprender sobre formulários em React e estilização de componentes usando Tailwind CSS. Sinta-se à vontade para explorar e usar o código em seus próprios projetos.
-
-Contribuições e feedback são bem-vindos! Se você tiver alguma sugestão de melhoria ou encontrar problemas, por favor, abra uma issue ou envie um pull request.
-
-Divirta-se usando o aplicativo de "Fale Conosco"!
 

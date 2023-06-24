@@ -1,3 +1,7 @@
+=======
+# react-contact-form
+Um formulário de contato React interativo.
+
 ![Imagem do Formulário](./public/form-image.png)
 
 Fale Conosco - Formulário de contato
@@ -16,8 +20,4 @@ Tecnologias utilizadas:
 - React
 - CSS (utilizando o framework Tailwind CSS)
 
-
-=======
-# react-contact-form
-Um formulário de contato React interativo.
 

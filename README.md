@@ -1,4 +1,4 @@
-(formulario-contato/public/form-image.png)
+![App Image](formulario-contato/public/form-image.png)
 
 Fale Conosco - Aplicativo de Contato
 
